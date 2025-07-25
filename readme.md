@@ -1,5 +1,12 @@
 # Sobre
-Este repositório é fruto de um trabalho meu (Arthur) de me aprofundar melhor em conceitos básicos e em algoritmos diversos. Usarei **Java 21** para toda e qualquer implementação que aqui estiver.
+Este repositório é fruto de um trabalho meu (Arthur) de me aprofundar melhor em conceitos básicos e em algoritmos diversos. Usarei **Java 24** para toda e qualquer implementação que aqui estiver.
+
+Iremos usar a *feature* de unnamed classes no Java. Portanto, execute qualquer código .java com a flag --enable-preview. Faça o teste abaixo com o arquivo MeTeste.java
+
+
+```bash
+java --enable-preview MeTeste.java
+```
 
 Todo o conteúdo do repositório será feito em português, sendo estes conteúdos códigos, comentários ou novos arquivos .md que forem necessários para qualquer elucidação.
 
